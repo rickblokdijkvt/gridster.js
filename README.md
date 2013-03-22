@@ -1,4 +1,4 @@
-Gridster.js
+RB Gridster.js
 ===========
 
 Gridster is a jQuery plugin that makes building intuitive draggable
